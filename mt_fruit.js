@@ -5,7 +5,7 @@ v1.4
 每天七点之前执行一次获取助力码提交
 
 [task_local]
-30 6,8,10,12 * * * https://raw.githubusercontent.com/passerby-b/mt_fruit/main/mt_fruit.js
+30 6,8,10,12,14,16 * * * https://raw.githubusercontent.com/passerby-b/mt_fruit/main/mt_fruit.js
 
 cookie环境变量 MTMC_COOKIE
 */
